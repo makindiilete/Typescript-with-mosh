@@ -1,0 +1,1 @@
+To compile ur TS code to JS, run 'tsc filename' in the terminal
