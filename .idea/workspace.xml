@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="647ece52-2d14-4c67-8e57-e9a1944deecb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/03 Advanced Types/01TypeAliases.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03 Advanced Types/02UnionTypes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03 Advanced Types/03IntersectionTypes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03 Advanced Types/04LiteralTypes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03 Advanced Types/05NullableTypes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2L1MNLAbmUO37RvP6NYhtEvASA1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "/Users/michaelakindiilete/Desktop/dev/Personal/TS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="647ece52-2d14-4c67-8e57-e9a1944deecb" name="Changes" comment="" />
+      <created>1675034093683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675034093683</updated>
+      <workItem from="1675034095185" duration="4249000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/02 Fundamentals/05Enums.js" />
+        <option value="$PROJECT_DIR$/02 Fundamentals/06Functions.js" />
+        <option value="$PROJECT_DIR$/02 Fundamentals/03Array.js" />
+        <option value="$PROJECT_DIR$/02 Fundamentals/04Turples.js" />
+        <option value="$PROJECT_DIR$/03 Advanced Types/02UnionTypes.js" />
+      </list>
+    </option>
+  </component>
+</project>
