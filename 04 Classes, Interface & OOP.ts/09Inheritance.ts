@@ -16,6 +16,8 @@ class Person {
 class Student extends Person {
   // inside the child class, we need to have a constructor with the 'super()' method.
   // d super calls the constructor of the base class and pass all the arguments the base class expects
+  // By default, d constructor of the base class is called automatically so we do not need to do ds manually unless we
+  // we also want to define a constructor to implement additional properties inside the child class
   constructor(public studentId: number, firstName: string, lastName: string) {
     super(firstName, lastName);
   }
